@@ -1,0 +1,7 @@
+{
+  "name": "Modul",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
